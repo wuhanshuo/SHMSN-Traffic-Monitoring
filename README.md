@@ -7,7 +7,7 @@ This repository contains the implementation of the paper:
 
 > Wu, H., Jian, X., Lataniotis, C., Hoelzl, C., Chatzi, E., & Reuland, Y. (2025). Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning. arXiv preprint, arXiv:2506.19023
 
-<img src="images/abstract.png" alt="Teaser Image" width="600">
+<img src="images/abstract.png" alt="Teaser Image" width="700">
 
 
 
