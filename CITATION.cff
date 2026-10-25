@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SHMSN-Traffic-Monitoring: vision-supervised traffic monitoring with SHM sensor networks"
+type: software
+authors:
+  - family-names: Wu
+    given-names: Hanshuo
+    affiliation: "Institute of Structural Engineering (IBK), ETH Zürich"
+license: AGPL-3.0-only
+repository-code: "https://github.com/wuhanshuo/SHMSN-Traffic-Monitoring"
+keywords:
+  - traffic monitoring
+  - structural health monitoring
+  - graph neural network
+  - sensor network
+preferred-citation:
+  type: article
+  title: "Automating traffic monitoring with SHM sensor networks via vision-supervised deep learning"
+  authors:
+    - family-names: Wu
+      given-names: Hanshuo
+    - family-names: Jian
+      given-names: Xudong
+    - family-names: Lataniotis
+      given-names: Christos
+    - family-names: Hoelzl
+      given-names: Cyprien
+    - family-names: Chatzi
+      given-names: Eleni
+    - family-names: Reuland
+      given-names: Yves
+  journal: "Measurement"
+  volume: 292
+  start: 123364
+  year: 2026
+  doi: 10.1016/j.measurement.2026.123364
